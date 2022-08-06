@@ -43,4 +43,5 @@ public class RCBTeam {
 		Assert.assertEquals(count,"1");
 		System.out.println("The team has only 1 Wicket-keeper");
 	}
+	
 }
